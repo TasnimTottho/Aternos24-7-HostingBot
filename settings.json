@@ -1,12 +1,13 @@
 {
-  "ip": "WABsmp-91r1.aternos.me",
-  "port": 64391,
-  "name": "our_Bot",
-  "version": "1.26.2.1",
+  "ip": "YOUR_SERVER.aternos.me",
+  "port": 19132,
+  "name": "Guard_Bot",
+  "version": "1.26.10",
   "offline": true,
   "auto_respawn": true,
   "anti_afk": true,
   "anti_afk_delay": 15000,
-  "auto_reconnect": true
+  "auto_reconnect": true,
+  "auto_reconnect_delay": 30000,
+  "reconnect_on_kick": true
 }
-
