@@ -1,6 +1,6 @@
 {
   "ip": "WABsmp-91r1.aternos.me",
-  "port": 64391,
+  "port": "64391",
   "name": "Our_Bot",
   "version": "1.26.2.1",
   "offline": true,
