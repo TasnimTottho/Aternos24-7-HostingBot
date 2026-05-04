@@ -8,7 +8,7 @@
   "server": {
     "ip": "WABsmp-91r1.aternos.me",
     "port": 64391,
-    "version": "1.26.2.1",
+    "version": false,
     "try-creative": false
   },
   "position": {
