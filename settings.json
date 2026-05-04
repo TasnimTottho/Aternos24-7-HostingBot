@@ -1,6 +1,6 @@
 {
-  "ip": "YOUR_SERVER.aternos.me",
-  "port": 19132,
+  "ip": "WABsmp-91r1.aternos.me",
+  "port": "64391",
   "name": "Guard_Bot",
   "version": "1.26.10",
   "auto_reconnect": true,
