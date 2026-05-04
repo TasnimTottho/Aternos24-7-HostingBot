@@ -2,7 +2,7 @@
   "ip": "WABsmp-91r1.aternos.me",
   "port": "64391",
   "name": "Guard_Bot",
-  "version": "1.26.10",
+  "version": "1.26.2.1",
   "auto_reconnect": true,
   "auto_reconnect_delay": 30000,
   "offline": true,
